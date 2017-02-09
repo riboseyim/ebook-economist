@@ -1,8 +1,6 @@
-# ebook-economist
+# ebook Economist
 
-# eBook: Linux Perf Master
-
-## 作者：[RiboseYim](https://riboseyim.github.io)
+## 翻译／整理：[RiboseYim](https://riboseyim.github.io)
 
 >工程师、开源粉、深度阅读患者。
 高效运维社区2016年度金牌作者
@@ -14,17 +12,12 @@
 
 ### 特色章节
 
-* [基于Linux单机的负载评估](chapter/abc/load.md)
-* [动态追踪技术：DTrace](chapter/tools/dtrace.md)
-* [基于Ganglia实现集群性能态势感知](chapter/tools/ganglia.md)
-* [新一代Ntopng网络流量监控—可视化和架构分析](chapter/tools/ntopng.md)
-* [基于LVS的AAA负载均衡架构实践](chapter/thinking/AAA.md)
-* [木马来袭：黑客入侵导致的性能问题](chapter/thinking/ssh.md)
-* [性能优化思路：从珠海航展交通管控实践谈起](chapter/thinking/traffic.md)
+* [Books of the Year 2016](chapter/books/2016.md)
+
 
 ### VERSION 1.0.1-201702
 
-https://www.gitbook.com/book/riboseyim/economist/details
+https://www.gitbook.com/book/riboseyim/ebook-economist/details
 
 ## Thanks
 
