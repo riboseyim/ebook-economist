@@ -16,7 +16,7 @@
 
 ## Community
 
-**简书专题：《经济学人翻译社》** [链接](http://www.jianshu.com/c/f2ea0605db4b)
+[简书专题：《经济学人翻译社》](http://www.jianshu.com/c/f2ea0605db4b)
 
 **小密圈：**
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_economist_small.png)
