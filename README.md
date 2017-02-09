@@ -14,6 +14,13 @@
 
 * [Books of the Year 2016](chapter/books/2016.md)
 
+## Community
+
+**简书专题：《经济学人翻译社》** [链接](http://www.jianshu.com/c/f2ea0605db4b)
+**小密圈：**
+![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_economist.png)
+
+
 
 ### VERSION 1.0.1-201702
 
