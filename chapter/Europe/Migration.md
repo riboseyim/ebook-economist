@@ -43,6 +43,10 @@
 最近土耳其已经开始解禁。援助国应当敦促约旦和黎巴嫩采取同样的措施。
 欧洲的资金可以为土耳其境内的400000无法接受教育的难民儿童提供支持。
 
+![](http://omaxozji3.bkt.clouddn.com/Europe-Migration-Data-1.png)
+![](http://omaxozji3.bkt.clouddn.com/Europe-Migration-Data-2.png)
+![](http://omaxozji3.bkt.clouddn.com/Europe-Migration-Data-3.png)
+![](http://omaxozji3.bkt.clouddn.com/Europe-Migration-Data-4.png)
 
 有时答案是：不行
 
