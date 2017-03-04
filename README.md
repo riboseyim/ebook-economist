@@ -2,18 +2,15 @@
 
 ## 翻译／整理：[RiboseYim](https://riboseyim.github.io)
 
->工程师、开源粉、深度阅读患者。
-高效运维社区2016年度金牌作者
 
-[Linkedin](https://www.linkedin.com/in/riboseyim/)
 [简书主页](http://www.jianshu.com/u/8cc1dba4bc96)
 [知乎专栏](https://www.zhihu.com/people/riboseyim)
-[作品合集](chapter/about/2016.md)
-
 
 ### 特色章节
 
 * [Books of the Year 2016](chapter/books/2016.md)
+* [中国卷：自由迁徙：改革的障碍 （2015）](chapter/china/Hukou2015.md)
+* [德国卷：纳粹魅影 （201512）](chapter/Germany/Nazi.md)
 
 ## Community
 
