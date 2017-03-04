@@ -5,4 +5,4 @@
 * [德国卷：纳粹魅影 （201512）](chapter/Germany/Nazi.md)
 * [中东卷：概况](chapter/MiddleEast/MiddleEast-Info.md)
 * [中东卷：沙特的改革蓝图](chapter/MiddleEast/SaudiReform.md)
-* [亚洲卷：沙特的改革蓝图](chapter/MiddleEast/SaudiReform.md)
+* [亚洲卷：越南换届（201601）](chapter/Asia/Vietnam.md)
