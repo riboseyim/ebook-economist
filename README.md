@@ -16,7 +16,7 @@
 * [欧洲卷：欧洲移民危机管理 （201602）](chapter/Europe/Migration.md)
 * [德国卷：纳粹魅影 （201512）](chapter/Germany/Nazi.md)
 * [中东卷：概况](chapter/MiddleEast/MiddleEast-Info.md)
-* [IT卷：概况](chapter/MiddleEast/MiddleEast-Info.md)
+* [IT卷：美国网络安全立法策略](chapter/IT/Regulating Cyber-Security/Index.md)
 * [TeamWork](chapter/teamwork/Ideas.md)
 * [Tools](chapter/tools/Tools.md)
 
