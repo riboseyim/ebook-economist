@@ -1,7 +1,7 @@
 # Summary
 
 * [Books of the Year 2016](chapter/books/2016.md)
-* [中国卷：自由迁徙：改革的障碍 （2015）](chapter/china/Hukou2015.md)
+* [中国卷：自由迁徙：改革的障碍 （2015）](chapter/China/Hukou2015.md)
 * [亚洲卷：越南换届（201601）](chapter/Asia/Vietnam.md)
 * [亚洲卷：印度电商大竞赛（2016）](chapter/Asia/India.md)
 * [欧洲卷：概况](chapter/Europe/Migration-Info.md)
