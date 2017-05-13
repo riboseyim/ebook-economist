@@ -29,8 +29,7 @@
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_economist_small.png)
 
 
-
-### VERSION 1.0.1-201702
+### Last Version
 
 https://www.gitbook.com/book/riboseyim/ebook-economist/details
 
